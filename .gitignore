@@ -2,6 +2,7 @@
 .idea/
 .ipynb_checkpoints/
 .python-version
+*.pyc
 
 data/
 tests/
