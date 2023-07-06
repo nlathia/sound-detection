@@ -5,7 +5,7 @@ PyAudio==0.2.11
 python-telegram-bot==12.4.2
 requests==2.23.0
 scikit-learn==0.22.1
-scipy==1.4.1
+scipy==1.10.0
 tenacity==6.1.0
 torch==1.4.0
 torchaudio==0.4.0
