@@ -7,7 +7,7 @@ requests==2.31.0
 scikit-learn==0.22.1
 scipy==1.10.0
 tenacity==6.1.0
-torch==1.4.0
+torch==1.13.1
 torchaudio==0.4.0
 torchvision==0.5.0
 tqdm==4.42.1
