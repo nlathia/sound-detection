@@ -3,7 +3,7 @@ numpy==1.22.0
 pandas==1.0.1
 PyAudio==0.2.11
 python-telegram-bot==12.4.2
-requests==2.31.0
+requests==2.32.2
 scikit-learn==0.22.1
 scipy==1.10.0
 tenacity==6.1.0
